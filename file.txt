@@ -2,3 +2,4 @@ Text File here
 new line
 should be fixed
 one more
+added to group Committers
